@@ -1,0 +1,14 @@
+
+# /
+/.idea
+/.project
+/.settings
+/*.iml
+
+/target
+# /POC/
+/POC/*.iml
+/POC/.classpath
+/POC/.project
+/POC/.settings
+/POC/target
